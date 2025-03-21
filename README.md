@@ -10,4 +10,5 @@ Frontend-Developer from Russia.
 📫 How to reach me: 
 
 🛠️ Languages and Tools :
-https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg
+![image](https://github.com/user-attachments/assets/6faa73b4-61a5-4d06-9d67-cf1d96dd7652)
+
